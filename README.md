@@ -78,11 +78,6 @@ Experience with classical web technologies including frontend and backend develo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoDonatiello04&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoDonatiello04&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MarcoDonatiello04&theme=tokyonight" />
 </p>
 
